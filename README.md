@@ -1,5 +1,5 @@
 # Discord-Bot-Raider
-- Another Discord Flooder/Raider Bot, it can ban all members, delete all channels, create a lot of channels, spam users with private messages and more! 🚀
+- Discord Raider Bot, it can ban all members, delete all channels, create a lot of channels, spam users with private messages and more! 🚀
 
 # BOT
 - Para usar este Bot debes tener los Maximos permisos del Servidor o ser el Propio OWNER. NO me hago responsable de lo que pase con el Bot.

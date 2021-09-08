@@ -1,6 +1,9 @@
 # Discord-Bot-Raider
 - Discord Raider Bot, it can ban all members, delete all channels, create a lot of channels, spam users with private messages and more! 🚀
 
+# CRÉDITOS
+- Créditos a Huguitis por hacer el Source Code del Bot :) Su Servidor de Discord aquí para cualquier duda: discord.gg/Huguitis
+
 # BOT
 - Para usar este Bot debes tener los Maximos permisos del Servidor o ser el Propio OWNER. NO me hago responsable de lo que pase con el Bot.
 
